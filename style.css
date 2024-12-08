@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header,
+footer {
+  text-align: center;
+  background-color: #ffbe5c;
+  color: white;
+}
+
+.todo-form {
+  display: flex;
+  justify-content: center;
+}
+
+.todo-form button {
+  background-color: #ffbe5c;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.todo-item button {
+  background: #ffbe5c;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
